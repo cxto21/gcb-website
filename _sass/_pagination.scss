@@ -5,7 +5,7 @@
 
 .pagination {
   overflow: hidden;
-  max-width: 30%;
+  max-width: 75%;
   margin: 0 auto 4rem auto;
   color: var(--text-color-light);
 
@@ -28,7 +28,7 @@
       width: auto;
 
     &-prev {
-      margin-bottom: 0;
+      margin-bottom: 2;
       float: left;
       a {
         color: var(--link-color);
@@ -36,7 +36,7 @@
       }
     }
     &-next {
-      margin-left: -1px;
+      margin-left: 2px;
       text-align: right;
       float: right;
       a {
