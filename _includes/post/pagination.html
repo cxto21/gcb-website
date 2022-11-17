@@ -1,0 +1,28 @@
+
+<nav class="pagination" role="navigation">
+<hr/>
+  <ul>
+    <li class="pagination-item-prev" >
+          {% if paginator.previous_page %}
+      {% if paginator.page == 2 %}
+            <a rel="prev" href="{{ site.baseurl }}/">&laquo; Anterior</a>
+        {% else %}
+        <a rel="prev" href="{{ site.baseurl }}/page-{{paginator.previous_page}}/">&laquo; Anterior</a>
+        {% endif %}
+      {% else %}
+      <span>&laquo; Anterior</span>
+          {% endif %}
+    </li>
+
+
+    <li class="pagination-item-next" >
+          {% if paginator.next_page %}
+      <a rel="next" href="{{ site.baseurl }}/page-{{paginator.next_page}}/">Siguiente &raquo;</a>
+      {% else %}
+      <span>Siguiente &raquo;</span>
+          {% endif %}
+    </li>
+
+  </ul>
+<hr/>
+</nav>
