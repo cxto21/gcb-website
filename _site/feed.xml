@@ -4,10 +4,10 @@
     <title>GCB Unquillo</title>
     <description>Grupo de Capoeira Brasil Unquillo. Profesor Charly.
 </description>
-    <link>http://localhost:4000/gcb-website//</link>
-    <atom:link href="http://localhost:4000/gcb-website//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 Nov 2022 19:08:14 -0300</pubDate>
-    <lastBuildDate>Thu, 17 Nov 2022 19:08:14 -0300</lastBuildDate>
+    <link>http://localhost:3021/gcb-website//</link>
+    <atom:link href="http://localhost:3021/gcb-website//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 19 Nov 2022 23:44:21 -0300</pubDate>
+    <lastBuildDate>Sat, 19 Nov 2022 23:44:21 -0300</lastBuildDate>
     <generator>Jekyll v3.9.2</generator>
     
       <item>
@@ -40,8 +40,8 @@ CURSO CON FORMANDO MARINEHIRO  (BH)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfo-5eURD9AgGeM8nLL0OYGVsQ10OxrKjbmFCE6pg0QQfMgDA/viewform&quot;&gt;Para inscribirte, presiona aquí.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 16 Nov 2022 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/gcb-website//posts/evento-abierto</link>
-        <guid isPermaLink="true">http://localhost:4000/gcb-website//posts/evento-abierto</guid>
+        <link>http://localhost:3021/gcb-website//posts/evento-abierto</link>
+        <guid isPermaLink="true">http://localhost:3021/gcb-website//posts/evento-abierto</guid>
         
         <category>Capoeira</category>
         
@@ -71,8 +71,8 @@ CURSO CON FORMANDO MARINEHIRO  (BH)&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfo-5eURD9AgGeM8nLL0OYGVsQ10OxrKjbmFCE6pg0QQfMgDA/viewform&quot;&gt;Para inscribirte, presiona aquí.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Nov 2022 00:00:00 -0300</pubDate>
-        <link>http://localhost:4000/gcb-website//posts/viva-capoeira</link>
-        <guid isPermaLink="true">http://localhost:4000/gcb-website//posts/viva-capoeira</guid>
+        <link>http://localhost:3021/gcb-website//posts/viva-capoeira</link>
+        <guid isPermaLink="true">http://localhost:3021/gcb-website//posts/viva-capoeira</guid>
         
         <category>Capoeira</category>
         

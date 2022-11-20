@@ -2,12 +2,16 @@
 //-------------------------------
 
 header {
-    overflow: hidden;
-    margin-bottom: 5rem;
+    overflow:scroll;
+    margin-bottom: 2rem;
 }
 
 .logo {
-    font-size: 3.5rem;
+    font-size: 3rem;
+    inline-size: auto;
+    .title {
+      max-lines: 1;      
+    }
     font-weight: $base-font-weight-bold;
     color: var(--link-color);
 
@@ -21,7 +25,7 @@ header {
     float: left;
 
 	  ul {
-	    list-style-type: none;
+	    list-style-type:armenian ;
 	    margin-bottom: 0rem;
 	    padding: 0rem;
 	  }
@@ -84,6 +88,7 @@ header {
     // fake it till you make it
     .logo {
       margin-top: 5rem;
+      max-lines: 1;
       .logosvg {
         display: list-item ; 
         margin: -9.5rem auto 5rem auto;

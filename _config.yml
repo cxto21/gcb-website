@@ -5,7 +5,8 @@ url                          : "https://gcbunquillo.tk" # the base hostname & pr
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : GCB Unquillo
+  title                        : GCB Unquillo
+  slog                         : Unquillo     
   description                  : >
                                Grupo de Capoeira Brasil Unquillo. Profesor Charly.
 
@@ -26,7 +27,7 @@ blog:
 
 # Author info
 author:
-  fullname                  : Ignacio
+  fullname                  : Entre Sierras
   rss                       : false # generate RSS feed and show it's icon in header
   space                     : dandaramultiespacio
   instagram                 : gcb_unquillo
