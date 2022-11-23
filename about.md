@@ -12,7 +12,7 @@ published: true
 Clases de `Capoeira Brasil` dictadas en `Dandara Espacio`, República Argentina 710, Unquillo, Córdoba.  Entrenamientos en practicas de la `Gimba` y el `Jogo` en la `Roda`. Instrumentación de `Ritmos Afrodescendientes`. 
 
 ## Profe Charly
-Practicante de la Capoeira desde el (completar), forma parte del grupo GCB Argentina y da clases desde el (). Organiza eventos en la región.
+Practicante de la Capoeira desde el (completar), forma parte del grupo GCB Argentina y da clases desde el (). Participa en la formación de eventos en la región.
 
 <!--{% capture page_subtitle %}
 <img
